@@ -1,7 +1,7 @@
 {
   "name": "JARVIS core Interface v4.0",
   "short_name": "JARVIS v4.0",
-  "start_url": "./JARVIS Core Interface v4.0.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#00d2ff",
